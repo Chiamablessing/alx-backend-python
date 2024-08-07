@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 '''Task 1's module.
 '''
-from 0_async_generator import async_generator
 from typing import List
 from importlib import import_module as using
 
